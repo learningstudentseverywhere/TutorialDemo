@@ -1,0 +1,12 @@
+###
+GET http://localhost:4004/odata/v4/Studentservice/Students
+
+
+
+###
+POST http://localhost:4004/odata/v4/Studentservice/Students
+Content-Type: application/json
+
+{
+        "name" : "Kumar"
+}
