@@ -8,5 +8,10 @@ POST http://localhost:4004/odata/v4/Studentservice/Students
 Content-Type: application/json
 
 {
-        "name" : "Kumar"
+  "name":"Nigil",
+   "ID" : "STUD0006",
+   "roll_no":2,
+   "class":"X",
+   "valueCreated":""
+  
 }
